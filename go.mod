@@ -1,3 +1,3 @@
-module github.com/jabuta/interpreter
+module monkey
 
 go 1.24.1
